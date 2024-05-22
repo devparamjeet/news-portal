@@ -1,0 +1,12 @@
+{
+    "":"https://newsapi.org/v2/everything?q=all&from=2024-05-19&sortBy=publishedAt&apiKey=c08ea8ef5209404292991c0f59a3f335",
+    "news":"https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=c08ea8ef5209404292991c0f59a3f335",
+    "Tesla":"https://newsapi.org/v2/everything?q=tesla&from=2024-05-19&sortBy=publishedAt&apiKey=c08ea8ef5209404292991c0f59a3f335",
+    "Sports":"https://newsapi.org/v2/everything?q=sports&from=2024-05-19&sortBy=publishedAt&apiKey=c08ea8ef5209404292991c0f59a3f335",
+    "Business":"https://newsapi.org/v2/everything?q=business&from=2024-05-19&sortBy=publishedAt&apiKey=c08ea8ef5209404292991c0f59a3f335",
+    "Crime":"https://newsapi.org/v2/everything?q=crime&from=2024-05-19&sortBy=publishedAt&apiKey=c08ea8ef5209404292991c0f59a3f335",
+    "Lifestyle":"https://newsapi.org/v2/everything?q=lifestyle&from=2024-05-19&sortBy=publishedAt&apiKey=c08ea8ef5209404292991c0f59a3f335",
+    "Entertainment":"https://newsapi.org/v2/everything?q=entertainment&from=2024-05-19&sortBy=publishedAt&apiKey=c08ea8ef5209404292991c0f59a3f335",
+    "International":"https://newsapi.org/v2/everything?q=international&from=2024-05-19&sortBy=publishedAt&apiKey=c08ea8ef5209404292991c0f59a3f335",
+    "Politics":"https://newsapi.org/v2/everything?q=politics&from=2024-05-19&sortBy=publishedAt&apiKey=c08ea8ef5209404292991c0f59a3f335"
+}
